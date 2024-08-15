@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19" width="19" height="19">
+	<title>Shape 36</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b8b8b8 } 
+	</style>
+	<path id="Shape 36" class="shp0" d="M15.25 8.75L15.25 7.11L14.25 8.12L14.25 16.75L3.25 16.75L3.25 5.75L11.88 5.75L12.89 4.75L11.25 4.75L11.25 4.5L2 4.5L2 18L15.5 18L15.5 8.75L15.25 8.75ZM3.21 14.37L3.25 14.33L3.25 14.41L3.21 14.37ZM5.7 16.75L5.61 16.84L5.53 16.75L5.7 16.75ZM12.25 2L12.25 3.75L15.01 3.75L4.44 14.32L5.68 15.56L16.25 4.99L16.25 7.75L18 7.75L18 2L12.25 2Z" />
+</svg>

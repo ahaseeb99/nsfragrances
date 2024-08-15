@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 43" width="42" height="43">
+	<title>Shape 33 copy</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b3b3b3 } 
+	</style>
+	<path id="Shape 33 copy" class="shp0" d="M29.68 21L17.43 8.75L14.53 11.65L23.88 21L14.53 30.35L17.43 33.26L29.68 21ZM21 41.01C32.02 41.01 40.99 32.03 40.99 21C40.99 9.97 32.02 1 21 1C9.97 1 1.01 9.97 1.01 21C1.01 32.03 9.97 41.01 21 41.01ZM21 3.77C30.5 3.77 38.23 11.5 38.23 21C38.23 30.51 30.5 38.24 21 38.24C11.5 38.24 3.77 30.51 3.77 21C3.77 11.5 11.5 3.77 21 3.77Z" />
+</svg>

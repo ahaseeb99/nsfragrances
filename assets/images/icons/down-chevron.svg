@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 7" width="12" height="7">
+	<title>Vector Smart Object</title>
+	<defs>
+		<image  width="53" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAAfCAMAAABwD3USAAAAAXNSR0IB2cksfwAAAgdQTFRFAAAA////////////////////////////////////7r507r507r507r507r507r507r50////////////////////////////////////////7r507r507r507r507r507r507r50/////////////////////////vz478F67r507r50//////////////7+89Kg7r507r50////////////7r508MSB9t65+enR+OLC8MaE7r50////////7r50+OTF9dis+u3Z/fjx78F67r50////////////7r507r9278F7//798s+Y7r50////////78N/7sB4//378s6W7r509t219dqv/ffv7sB3////////9dis8cuP/vz489Ca7r50////7r508cmN/vnz7r507r50/vr09dmt7r5078B5/v37/PPl7r507r507r507r508s6X8MaF7r507r507r507r507r507r507r507r50////////7r507r507r507r507r50////+uvU/fft////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////heWPhwAAAK10Uk5TAAljtuj+9tePMgM/d46EYRhM5f/3wKWv2qYRAWPl//6nIG3ubgwvs9q68UVR1SBy//Y2EOodXf//////1XNi3v//////WsbsBDX/////sBSsdf///+j/////1qDN////95Bb//8V/f//q/////wpJPX//5ZUwQlG56EKgCoMeM+mONQXmXXNI2zEHGW7XrENVwaVErArefF3RY4e7d4FAr833f1JpPlfYcLknCQ0SNQcAAABuElEQVR4nGNggAJGJmYWVjZ2Dk4Qh4ubh5ePX4CBEBAUEhYRFROXEBaWlJKWkZUDAXkFRfyalISVVVRBDDV1YQ1NORjQ0sanSUdYVw/G1jeQQwBDI9yajE1MTOEcM5BqcwtLK2sQw4YLpy5bYTs4W9oepNjSwdHJ2QXEcsWpy83dA872BLvMS07O28cXxPLD7jpjY3/WAGM4CIR5KSg4BESFYtUljAbCYLrCIyLBwY9dV1Q0CoiBaoqNiwfTCdh1JaLykyCaklMcIQwbonSlpoE1pWdA7eQlShdDJlBpVnp2Tk4OSGNuHnG68guAAV8IAkVAXcVYNWHqYihJQ6So0jJidTGUV8A0VVYhCVfXIGgsuhhq6+pBCb6hEVmwWripBk5j0wUEzREt6EKtYG3Vwm3t2O0CAmMs4h1AbdXCnV3Y/YVLF0O3cJNwjz8DiboYeoX7+hlI1sUwYSIDGbpggExdk7AKTxbmwKeLbQpW4anC0/DpEp2uik14hvBMfLp6hWdhEZ09Z+48fLrmLxCehWHbwkWLl+DTxMAgJSo8vQ+l6FjaJrxsOX5NQNtWrBRBLadWrV6DXwsAa7F2BkSPbBoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Vector Smart Object" href="#img1" x="-41" y="-15" />
+</svg>
